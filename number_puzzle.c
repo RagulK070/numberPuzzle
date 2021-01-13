@@ -18,7 +18,7 @@ void main()
 {
     int puzzle[4][4];
     system("CLS");
-    //welcome();
+    welcome();
     create(puzzle);
     printf("\n\n \t The   Resultant   Puzzle :");
     display(puzzle);
